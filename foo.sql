@@ -1,1 +1,1 @@
-select * from dealerships;
+select * from dealerships where dealership_id = 1;
